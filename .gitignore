@@ -1,0 +1,11 @@
+/.metadata/
+
+bin/
+target/
+db.properties
+naver.properties
+test/
+*.classpath
+*.project
+*.settings
+
